@@ -13,6 +13,7 @@ setuptools.setup(
     name="TEST",
     version="0.1",
     author="EL",
+    url = 'https://github.com/Elvares/PrintTestFunc',
     author_email="elvares251997@gmail.com",
     description="Library for TEST",
     packages=['TEST'],
